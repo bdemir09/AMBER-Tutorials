@@ -216,6 +216,9 @@ Next, run this command on the terminal:
 cpptraj a-dna_wat.prmtop reimage.ptraj
 ```
 
+Note from the official website:
+(Note: These tutorials are meant to provide illustrative examples of how to use the AMBER software suite to carry out simulations that can be run on a simple workstation in a reasonable period of time. They do not necessarily provide the optimal choice of parameters or methods for the particular application area.)
+Copyright Ross Walker 2015
 
 
 
